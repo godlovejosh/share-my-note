@@ -1,3 +1,4 @@
+# JAVA 分布式
 Replica 副本 [ˈrɛplɪkə] 复制品
 Distributed 分布式的 [dɪ'strɪbju:tɪd]
 Consistency 一致性 [kənˈsɪstənsi]
@@ -40,5 +41,82 @@ ODM Orignal Design Manufactuce 原始设计制造商
 OBM Orignal Brand Manufactuce 原始品牌制造商
 
 
+# JAVA 设计模式
+Java Design Pattern
+
+Creational Patterns
+
+        Abstract Factory
+        Builder
+        Factory Method
+        Prototype
+        Property
+        Singleton
+        Multiton
+        Object Pool
+
+Structural Patterns
+
+        Adapter
+        Bridge
+        Composite
+        Decorator
+        Facade
+        Flyweight
+        Proxy
+        Service Locator
+        Servant
+        Event Aggregator
+
+Behavioral Patterns
+
+        Chain of responsibility
+        Command
+        Interpreter [ɪnˈtɜ:rprɪtə(r)] 解释器
+        Iterator
+        Mediator  	[ˈmidiˌetɚ] 中介者
+        Memento
+        Observer
+        State
+        Strategy
+        Template method
+        Visitor
+        Null Object
+        Intercepting Filter
+        Specification
+        Dependency Injection
+
+
+Concurrency Patterns
+
+        Double Checked Locking
+        Thread Pool
+
+Presentation Tier Patterns
+
+        Model-View-Controller
+        Model-View-Presenter
+        Flux
+
+Architectural Patterns
+
+        Data Access Object
+        Service Layer
+
+Integration Patterns
+
+        Tolerant Reader
+
+
+Idioms
+Execute Around
+Poison Pill
+Callback
+Lazy Loading
+Double Dispatch
+Resource Acquisition Is Initialization
+Private Class Data
+
+    
 
 

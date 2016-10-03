@@ -3,7 +3,7 @@
 #### <http://www.appinn.com/markdown/>
 #### <http://www.jianshu.com/p/1e402922ee32/>
 
-## 推荐使用工具:Mou、Ulysses、或者直接IntelliJ IDEA安装MarkDown插件
+## 推荐使用工具:Ulysses、MWeb、Typora、Marked2、Mou或者直接IntelliJ IDEA安装MarkDown插件
 
 # 以下只做案例汇总,新手请参考推荐阅读
 
@@ -281,3 +281,18 @@ The Spring Framework is released under version 2.0 of the [Apache License][].
 [The Spring Blog]: http://spring.io/blog/
 [news feed]: http://spring.io/blog/category/news
 [Apache License]: http://www.apache.org/licenses/LICENSE-2.0
+
+
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
+<font color=#00ffff size=72>color=#00ffff</font>
+<font color=gray size=72>color=gray</font>
+        
+        Size：规定文本的尺寸大小。可能的值：从 1 到 7 的数字。浏览器默认值是 3。
+
+
+
+
+
