@@ -1,6 +1,9 @@
 # JAVA 分布式
+
 Replica 副本 [ˈrɛplɪkə] 复制品
+
 Distributed 分布式的 [dɪ'strɪbju:tɪd]
+
 Consistency 一致性 [kənˈsɪstənsi]
 Availability 可用性 [əˌveləˈbɪlətɪ]
 Partition tolerance 分区容错性 [pɑ:rˈtɪʃn] [ˈtɑ:lərəns] 分隔、划分，宽容、容忍
